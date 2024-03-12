@@ -1,4 +1,5 @@
-#!/usr/bin/env python
+#!/usr/bin/env python3
+
 import serial
 import struct
 import sys
@@ -9,7 +10,7 @@ import glob
 import re
 import pprint
 
-from xsens_driver.mtdef import MID, OutputMode, OutputSettings, MTException, Baudrates, \
+from mti_driver.mtdef import MID, OutputMode, OutputSettings, MTException, Baudrates, \
     XDIGroup, getMIDName, DeviceState, DeprecatedMID, MTErrorMessage, \
     MTTimeoutException
 

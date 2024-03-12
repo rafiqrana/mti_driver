@@ -1,0 +1,32 @@
+{
+    "python.autoComplete.extraPaths": [
+        "/home/rana/colcon_ws/build/xsens_driver",
+        "/home/rana/colcon_ws/install/xsens_driver/lib/python3.10/site-packages",
+        "/home/rana/colcon_ws/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/canine_hw/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/umx_driver/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/robot_localization/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/hector_gazebo_plugins/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/build/canine_pso",
+        "/home/rana/colcon_ws/install/canine_pso/lib/python3.10/site-packages",
+        "/home/rana/colcon_ws/install/canine_msgs/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/canine_common/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ],
+    "python.analysis.extraPaths": [
+        "/home/rana/colcon_ws/build/xsens_driver",
+        "/home/rana/colcon_ws/install/xsens_driver/lib/python3.10/site-packages",
+        "/home/rana/colcon_ws/install/vectornav_msgs/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/canine_hw/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/umx_driver/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/robot_localization/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/hector_gazebo_plugins/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/build/canine_pso",
+        "/home/rana/colcon_ws/install/canine_pso/lib/python3.10/site-packages",
+        "/home/rana/colcon_ws/install/canine_msgs/local/lib/python3.10/dist-packages",
+        "/home/rana/colcon_ws/install/canine_common/local/lib/python3.10/dist-packages",
+        "/opt/ros/humble/lib/python3.10/site-packages",
+        "/opt/ros/humble/local/lib/python3.10/dist-packages"
+    ]
+}
